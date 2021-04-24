@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @afeefkm95
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning unity
+- 🌱 I’m currently learning Unity
 - 💞️ I’m looking to collaborate on software development
 - 📫 How to reach me "www.linkedin.com/in/afeefkm-8597601a2"
 
